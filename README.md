@@ -1,1 +1,1 @@
-# AdGuard-Home-
+# AdGuard-Home-规则
